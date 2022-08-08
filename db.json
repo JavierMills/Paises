@@ -18,7 +18,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio": 4,
       },
       {
         "elim": "",
@@ -37,7 +38,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       },  {
         "elim": "",
         "status": "EspecialistaComexRech",
@@ -55,7 +57,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":7,
       },  {
         "elim": "",
         "status": "ProcesoPendienteContraloria",
@@ -73,7 +76,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":3,
       },  {
         "elim": "",
         "status": "ProcesoPendienteCartera",
@@ -91,7 +95,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       },  {
         "elim": "",
         "status": "FondosDeFomento",
@@ -109,7 +114,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       },  {
         "elim": "",
         "status": "EnviadaNafinet",
@@ -127,7 +133,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       },  {
         "elim": "",
         "status": "AprobadoNafinet",
@@ -145,7 +152,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "".,
+        "idststusfolio":9,
       },  {
         "elim": "",
         "status": "RechaxoNafinet",
@@ -163,7 +171,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       },
       {
         "elim": "",
@@ -182,7 +191,8 @@
         "Solicito": "ADRIAN FRANCISCO BLANCO BERLANGA",
         "A": "",
         "Z": "",
-        "C": ""
+        "C": "",
+        "idststusfolio":5,
       }
     
 ]
