@@ -19,7 +19,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio": 4,
+        "idststusfolio": 4
       },
       {
         "elim": "",
@@ -39,7 +39,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       },  {
         "elim": "",
         "status": "EspecialistaComexRech",
@@ -58,7 +58,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":7,
+        "idststusfolio":7
       },  {
         "elim": "",
         "status": "ProcesoPendienteContraloria",
@@ -77,7 +77,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":3,
+        "idststusfolio":3
       },  {
         "elim": "",
         "status": "ProcesoPendienteCartera",
@@ -96,7 +96,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       },  {
         "elim": "",
         "status": "FondosDeFomento",
@@ -115,7 +115,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       },  {
         "elim": "",
         "status": "EnviadaNafinet",
@@ -134,7 +134,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       },  {
         "elim": "",
         "status": "AprobadoNafinet",
@@ -153,7 +153,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":9,
+        "idststusfolio":9
       },  {
         "elim": "",
         "status": "RechaxoNafinet",
@@ -172,7 +172,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       },
       {
         "elim": "",
@@ -192,7 +192,7 @@
         "A": "",
         "Z": "",
         "C": "",
-        "idststusfolio":5,
+        "idststusfolio":5
       }
     
 ]
