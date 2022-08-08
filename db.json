@@ -3,7 +3,6 @@
         
     {
         "elim": "",
-        "status": "CapturarSolicitud",
         "id": 1,
         "R": "",
         "I": "",
@@ -40,7 +39,6 @@
         "C": ""
       },  {
         "elim": "",
-        "status": "EspecialistaComexRech",
         "id": 1,
         "R": "",
         "I": "",
