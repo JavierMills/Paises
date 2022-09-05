@@ -22,7 +22,7 @@
       },  {
         "elim": "",
         "status": "EspecialistaComexRech",
-        "id": 1,
+        "id": 2,
         "R": "",
         "I": "",
         "Folio": 1111,
@@ -41,7 +41,7 @@
       },  {
         "elim": "",
         "status": "ProcesoPendienteContraloria",
-        "id": 1,
+        "id": 3,
         "R": "",
         "I": "",
         "Folio": 1250,
@@ -60,7 +60,7 @@
       },  {
         "elim": "",
         "status": "ProcesoPendienteCartera",
-        "id": 1,
+        "id": 4,
         "R": "",
         "I": "",
         "Folio": 1259,
@@ -79,7 +79,7 @@
       },  {
         "elim": "",
         "status": "FondosDeFomento",
-        "id": 1,
+        "id": 5,
         "R": "",
         "I": "",
         "Folio": 1233,
@@ -98,7 +98,7 @@
       },  {
         "elim": "",
         "status": "EnviadaNafinet",
-        "id": 1,
+        "id": 6,
         "R": "",
         "I": "",
         "Folio": 1255,
@@ -117,7 +117,7 @@
       },  {
         "elim": "",
         "status": "AprobadoNafinet",
-        "id": 1,
+        "id": 7,
         "R": "",
         "I": "",
         "Folio": 1255,
@@ -136,7 +136,7 @@
       },  {
         "elim": "",
         "status": "RechaxoNafinet",
-        "id": 1,
+        "id": 8,
         "R": "",
         "I": "",
         "Folio": 1255,
@@ -156,7 +156,7 @@
       {
         "elim": "",
         "status": "Reproceso",
-        "id": 1,
+        "id": 9,
         "R": "",
         "I": "",
         "Folio": 1255,
